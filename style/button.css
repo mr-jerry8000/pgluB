@@ -1,0 +1,48 @@
+.link {
+  text-decoration: none;
+  background-color: blue;
+  color: aliceblue;
+  padding: 5px 10px;
+  border: 2px solid blue;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  font-size: 12px;
+  margin-right: 20px;
+}
+
+.link:hover {
+  background-color: rgb(97, 97, 197);
+  border: 2px solid rgb(97, 97, 197);
+}
+
+.link-l {
+  margin-left: 20px;
+  text-decoration: none;
+  background-color: blue;
+  color: aliceblue;
+  padding: 5px 10px;
+  border: 2px solid blue;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-size: 12px;
+}
+
+.link-l:hover {
+  background-color: rgb(97, 97, 197);
+  border: 2px solid rgb(97, 97, 197);
+}
+
+.wrapper {
+  font-size: 10px;
+  /* display: block; */
+  padding: 0px;
+  margin: 0px;
+}
+
+.wrapper-l {
+  font-size: 10px;
+  /* display: block; */
+  float: left;
+  padding: 0px;
+  margin: 0px;
+}
