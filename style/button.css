@@ -6,7 +6,7 @@
   border: 2px solid blue;
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
-  font-size: 12px;
+  font-size: 18px;
   margin-right: 20px;
 }
 
@@ -24,7 +24,7 @@
   border: 2px solid blue;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
-  font-size: 12px;
+  font-size: 18px;
 }
 
 .link-l:hover {
@@ -33,14 +33,13 @@
 }
 
 .wrapper {
-  font-size: 10px;
   /* display: block; */
   padding: 0px;
   margin: 0px;
 }
 
 .wrapper-l {
-  font-size: 10px;
+  font-size: 18px;
   /* display: block; */
   float: left;
   padding: 0px;
